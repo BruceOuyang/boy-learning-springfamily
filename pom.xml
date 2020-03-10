@@ -24,6 +24,8 @@
     <!-- 模块说明 -->
     <modules>
         <module>hello-spring</module>
+        <module>springboot-datasource</module>
+        <module>springboot-mutidatasource</module>
     </modules>
 
     <properties>
