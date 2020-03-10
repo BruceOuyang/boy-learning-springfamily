@@ -9,6 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
+    <modules>
+        <module>hello-spring</module>
+    </modules>
+
     <build>
         <plugins>
             <plugin>
